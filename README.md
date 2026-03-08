@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="oceanphenix.png" alt="OceanPhenix" width="600" />
-</p>
-
-<p align="center">
-  <img src="sc.png" alt="Stéphane Celton" width="400" />
+  <img src="oceanphenix.png" alt="OceanPhenix" width="1280" />
 </p>
 
 # Stéphane Celton
