@@ -122,8 +122,9 @@ Les projets exploratoires data et IA soulèvent des enjeux majeurs : **RGPD**, *
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
-  <a href="https://stephanecelton.oceanphenix.fr"><img src="https://img.shields.io/badge/🌊_Portfolio_interactif-0b1a2e?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://oceanphenix.fr"><img src="https://img.shields.io/badge/OceanPhenix.fr-4db8d4?style=for-the-badge&logoColor=white" alt="OceanPhenix" /></a>
+  <a href="https://stephanecelton.oceanphenix.fr"><img src="https://img.shields.io/badge/Portfolio-0b1a2e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://oceanphenix.fr"><img src="https://img.shields.io/badge/OceanPhenix.fr-4db8d4?style=for-the-badge&logo=ocean&logoColor=white" alt="OceanPhenix" /></a>
   <a href="https://www.linkedin.com/in/stephane-celton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://calendly.com/contact-oceanpconsulting/reserver-un-echange-strategique-data-bi"><img src="https://img.shields.io/badge/📅_Réserver_un_échange-c87a4a?style=for-the-badge&logoColor=white" alt="Calendly" /></a>
+  <a href="https://www.youtube.com/@DiscoveryITDATA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://calendly.com/contact-oceanpconsulting/reserver-un-echange-strategique-data-bi"><img src="https://img.shields.io/badge/Réserver_un_échange-c87a4a?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" /></a>
 </p>
