@@ -127,6 +127,11 @@ Les projets exploratoires data et IA soulèvent des enjeux majeurs : **RGPD**, *
 
 ---
 
-## Contact
+<h2 align="center">📬 Contact</h2>
 
-[Portfolio interactif](https://stephanecelton.oceanphenix.fr) · [OceanPhenix.fr](https://oceanphenix.fr) · [LinkedIn](https://www.linkedin.com/in/stephane-celton) · [Réserver un échange](https://calendly.com/contact-oceanpconsulting/reserver-un-echange-strategique-data-bi)
+<p align="center">
+  <a href="https://stephanecelton.oceanphenix.fr"><img src="https://img.shields.io/badge/🌊_Portfolio_interactif-0b1a2e?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://oceanphenix.fr"><img src="https://img.shields.io/badge/OceanPhenix.fr-4db8d4?style=for-the-badge&logoColor=white" alt="OceanPhenix" /></a>
+  <a href="https://www.linkedin.com/in/stephane-celton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://calendly.com/contact-oceanpconsulting/reserver-un-echange-strategique-data-bi"><img src="https://img.shields.io/badge/📅_Réserver_un_échange-c87a4a?style=for-the-badge&logoColor=white" alt="Calendly" /></a>
+</p>
