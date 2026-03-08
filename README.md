@@ -45,9 +45,9 @@ Banque & Assurance · Énergie · Industrie · Aéronautique & Défense · Sant�
 
 | Diplôme | Établissement | Période |
 |---|---|---|
-| **Data Product Manager (RNCP 7)** | Datascientest.com | 2024 – 2025 |
-| ↳ RNCP36129BC01 — Élaborer une solution IA grâce au Design Thinking | | 10/2024 – 01/2025 |
-| ↳ RNCP36129BC02 — Piloter un projet IA | | |
+| **Data Product Manager (RNCP 7)** | Mines Paris -Datascientest.com | 2024 – 2025 |
+| ↳ RNCP36129BC01 — Élaborer une solution IA grâce au Design Thinking | Mines Paris -Datascientest.com | 2024 – 2025 |
+| ↳ RNCP36129BC02 — Piloter un projet IA | Mines Paris -Datascientest.com |2024 – 2025 |
 | ↳ *Projet soutenance : DataScientest Learn — Optimiser les conditions d'apprentissage d'une plateforme e-learning* | | |
 | **Concepteur Développeur N-Tiers (Bac+4)** | IPI Institut · IGS | 2014 – 2015 |
 | **Technicien Supérieur Systèmes & Réseaux (Bac+2)** | IPI Institut · IGS | 2006 – 2007 |
