@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sc.png" alt="Stéphane Celton" width="160" style="border-radius: 50%;" />
+  <img src="sc.png" alt="Stéphane Celton" width="400" />
 </p>
 
 # Stéphane Celton
