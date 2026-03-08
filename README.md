@@ -4,7 +4,7 @@
 
 # Stéphane Celton
 
-**Senior Data Product Manager · BI · Gouvernance Data · Production IT**
+**Senior Data Product Manager · BI · Gouvernance Data · Production IT  - Founder Oceanphenix - oceanpconsulting**
 
 ---
 
