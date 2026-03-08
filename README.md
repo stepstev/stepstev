@@ -4,20 +4,33 @@
 
 ---
 
-## Parcours
+## Parcours — de la production industrielle à la data
 
-15+ ans d'expérience dans le pilotage de solutions data et la production IT au sein d'environnements critiques — banque, industrie, énergie, aéronautique.
+Mon parcours n'est pas linéaire. Il est construit par le terrain, étape par étape, depuis l'industrie jusqu'au pilotage de produits data.
 
-Mon parcours combine **ingénierie de production**, **Business Intelligence**, **gouvernance des données** et **pilotage produit**. J'ai évolué sur le terrain : MCO de plateformes décisionnelles, gestion d'incidents en contexte réglementé, structuration de reporting exécutif, coordination technique d'équipes pluridisciplinaires.
+### 🏭 Production industrielle — Coca-Cola Entreprise
 
-Cette expérience m'a construit une conviction : un bon chef de produit data doit comprendre la technique. Pas pour tout faire seul — mais pour cadrer juste, arbitrer vite et garantir la qualité de ce qui est livré.
+Première expérience dans un environnement industriel exigeant. Gestion de lignes de production cadencées, amélioration continue, sensibilisation aux démarches **6 Sigma** et aux standards qualité. C'est là que j'ai appris la rigueur, le respect des process et la valeur d'un indicateur fiable.
 
-### Rôles exercés
+### 🖥️ Technicien informatique
 
-- **Data Product Manager** — cadrage des usages, roadmap, priorisation orientée valeur métier, ownership des assets data
-- **Senior BI Analyst** — Power BI, modélisation sémantique (TMDL/DAX), reporting décisionnel et opérationnel
-- **Production Engineer** — MCO de systèmes critiques, supervision, gestion d'incidents, continuité de service
-- **Chef de projet / Scrum Master** — pilotage Agile, coordination MOA/MOE, livraisons en environnements exigeants
+Transition vers l'IT : support, administration systèmes, gestion de parcs. Première immersion dans les environnements techniques, compréhension du fonctionnement des infrastructures et des contraintes de production informatique.
+
+### 📊 Analyste de production IT
+
+Montée en compétences sur la supervision, le monitoring et l'analyse des incidents en environnements critiques. MCO de plateformes, gestion des alertes, continuité de service. Des contextes réglementés — banque, énergie — où chaque interruption a un coût.
+
+### ⚙️ Ingénieur de production BI
+
+Passage au décisionnel : industrialisation de flux BI, MCO de plateformes Power BI et Analysis Services, modélisation sémantique (TMDL/DAX), structuration du reporting opérationnel et exécutif. Interface entre les équipes techniques et les métiers.
+
+### 🎯 Chef de projet & Data Product Manager
+
+Aujourd'hui : cadrage des usages data, définition de la roadmap produit, priorisation orientée valeur métier, ownership fonctionnel des assets data. Pilotage Agile/Scrum, coordination MOA/MOE, livraisons en environnements exigeants.
+
+---
+
+**Ma conviction** : un bon chef de produit data doit comprendre la technique. Pas pour tout faire seul — mais pour cadrer juste, arbitrer vite et garantir la qualité de ce qui est livré. Ce parcours terrain, de la ligne de production industrielle à la gouvernance data, c'est ce qui fait la différence.
 
 ### Secteurs d'intervention
 
