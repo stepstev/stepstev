@@ -38,15 +38,17 @@ Banque & Assurance · Énergie · Industrie · Aéronautique & Défense · Sant�
 
 ---
 
-## Expertises métier
+## Compétences
 
-| Domaine | Périmètre |
+| Domaine | Technologies & Méthodes |
 |---|---|
-| **Data Product Management** | Cadrage, roadmap produit, priorisation valeur, ownership fonctionnel |
-| **Business Intelligence** | Power BI, TMDL, DAX avancé, Semantic Models, reporting décisionnel |
-| **Gouvernance & Qualité** | Data catalog, traçabilité, conformité, stewardship |
-| **Production IT & Observabilité** | MCO plateformes, monitoring, supervision, alerting opérationnel |
-| **Pilotage & Coordination** | Agile/Scrum, gestion d'incidents, alignement parties prenantes |
+| **Cloud & Infrastructure** | Azure, AWS, PaaS, SaaS, Environnements hybrides |
+| **Gestion Produit Data** | Roadmap, KPIs, Priorisation, Modélisations |
+| **Outils BI & Analytics** | Power BI, DAX, M, SSIS, Dataiku, Report Server |
+| **Langages, BDD & IA** | SQL Server, PostgreSQL, T-SQL, Python, Pandas, NumPy, scikit-learn, LLM/LM |
+| **Méthodologies** | SPC, Scrum, Kanban, 6 Sigma, DMAIC, ITIL, ITSM, Design Thinking, UX-UI |
+| **Outils collaboratifs** | Jira, Confluence, O365, ServiceNow |
+| **Supervision & Ordonnancement** | VTOM, TWS, Centreon, Control-M |
 
 ---
 
