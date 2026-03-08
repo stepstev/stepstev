@@ -121,6 +121,12 @@ Je privilégie les architectures pragmatiques, la souveraineté des données et 
 
 ---
 
+## Souveraineté & Gouvernance des données
+
+Les projets exploratoires data et IA soulèvent des enjeux majeurs : **RGPD**, **gouvernance des données**, **souveraineté numérique**. Mes projets explorent des approches data et IA maîtrisées — self-hosted, architectures hybrides — afin de mieux contrôler les infrastructures et les données.
+
+---
+
 ## Contact
 
 [Portfolio interactif](https://stephanecelton.oceanphenix.fr) · [OceanPhenix.fr](https://oceanphenix.fr) · [LinkedIn](https://www.linkedin.com/in/stephane-celton) · [Réserver un échange](https://calendly.com/contact-oceanpconsulting/reserver-un-echange-strategique-data-bi)
