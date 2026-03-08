@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sc.png" alt="Stéphane Celton" width="160" style="border-radius: 50%;" />
+</p>
+
 # Stéphane Celton
 
 **Senior Data Product Manager · BI · Gouvernance Data · Production IT**
