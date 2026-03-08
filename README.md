@@ -94,7 +94,7 @@ Un Data Product Manager crédible, c'est quelqu'un qui peut ouvrir le capot. Je 
 
 ### Data & IA
 
-| Projet | Description |
+| Quelques Projet récents d'actualité  2025 -2026  | Description |
 |---|---|
 | [oceanphenix.fr](https://github.com/stepstev/oceanphenix.fr) | Site portfolio professionnel — Astro, GitHub Pages |
 | [rag-platform-2026-public](https://github.com/stepstev/rag-platform-2026-public) | Stack RAG publique 2026 — modulaire, souveraine, Docker Compose |
@@ -102,14 +102,6 @@ Un Data Product Manager crédible, c'est quelqu'un qui peut ouvrir le capot. Je 
 | [RAGchatOP](https://github.com/stepstev/RAGchatOP) | RAGchatOP — OpenWebUI + serveur T640 |
 | [BOTAI](https://github.com/stepstev/BOTAI) | Bot IA basé sur Groq (Fast AI Inference) |
 
-### Automatisation & Outils
-
-| Projet | Description |
-|---|---|
-| [n8n-Docker-HTTPS-Setup](https://github.com/stepstev/n8n-Docker-HTTPS-Setup) | Setup n8n en Docker avec HTTPS |
-| [n8n-docker_ngrok-docs](https://github.com/stepstev/n8n-docker_ngrok-docs) | Documentation Streamlit — n8n Docker HTTPS Setup |
-
----
 
 ## Approche
 
