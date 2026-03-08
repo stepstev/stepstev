@@ -57,7 +57,7 @@ Banque & Assurance · Énergie · Industrie · Aéronautique & Défense · Sant�
 | Diplôme | Période |
 |---|---|
 | **Licence Chimie de l'eau** | 1988 – 1989 |
-| **BTS Biochimie** | |
+| **BTS Biochimie** | 1987 -1988 |
 
 ---
 
