@@ -15,7 +15,7 @@ Safran
 Mon parcours a évolué progressivement de l’industrie vers la data, en passant par la production IT, la Business Intelligence et aujourd’hui le pilotage de produits data et de projets IA.
 
 
-### 🎯 Chef de projet & Data Product Manager
+### 🎯 Chef de projet & Data Product Manager, Expert BI 
 
 Aujourd'hui : cadrage des usages data, définition de la roadmap produit, priorisation orientée valeur métier, ownership fonctionnel des assets data. Pilotage Agile/Scrum, coordination MOA/MOE, livraisons en environnements exigeants.
 
