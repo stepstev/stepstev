@@ -10,8 +10,7 @@
 
 ## Parcours — de la production industrielle à la data
 
-Senior Data Product Manager / BI / Data Governance avec 15+ ans d’expérience dans des environnements critiques : Coca-Cola, EDF, BNP Paribas, BPCE, GRDF, Dassault Aviation,  et Crédit Agricole.
-Safran
+Senior Data Product Manager / BI / Data Governance avec 15+ ans d’expérience dans des environnements critiques : Coca-Cola, EDF, BNP Paribas, BPCE, GRDF, Dassault Aviation, Crédit Agricole ou  SAFRAN.
 Mon parcours a évolué progressivement de l’industrie vers la data, en passant par la production IT, la Business Intelligence et aujourd’hui le pilotage de produits data  BI ou IA.
 
 
