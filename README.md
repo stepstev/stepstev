@@ -20,7 +20,7 @@ Première expérience dans un environnement industriel exigeant. Gestion de lign
 
 Transition vers l'IT : support, administration systèmes, gestion de parcs. Première immersion dans les environnements techniques, compréhension du fonctionnement des infrastructures et des contraintes de production informatique.
 
-### 📊 Analyste de production IT
+### 📊 Analyste de production IT [EDF, PSA, La Banque Postale (ATOS)]
 
 Montée en compétences sur la supervision, le monitoring et l'analyse des incidents en environnements critiques. MCO de plateformes, gestion des alertes, continuité de service. Des contextes réglementés — banque, énergie — où chaque interruption a un coût.
 
