@@ -62,7 +62,7 @@ Banque & Assurance · Énergie · Industrie · Aéronautique & Défense · Sant�
 
 Un Data Product Manager crédible, c'est quelqu'un qui peut ouvrir le capot. Je développe, je déploie, j'architecture — pas par titre, mais par nécessité et par conviction.
 
-**BI & Data Engineering** · Power BI · DAX · TMDL · Semantic Models · Azure Analysis Services · SQL · PostgreSQL · Superset  
+**BI & Data Engineering** · Power BI · DAX · TMDL · Semantic Models · Dataiku· Azure Analysis Services · SQL · PostgreSQL · Superset  
 **DevOps & Infrastructure** · Docker · Docker Compose · Git · CI/CD · Self-hosted · MinIO S3 · N8n  
 **IA Souveraine & RAG** · Ollama · Qdrant · OpenWebUI · FastAPI · Python · Embeddings · LLM locaux  
 **Observabilité** · Grafana · Prometheus · cAdvisor  
