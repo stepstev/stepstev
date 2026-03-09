@@ -42,13 +42,6 @@ Banque & Assurance · Énergie · Industrie · Aéronautique & Défense · Sant�
 | **Concepteur Développeur N-Tiers (Bac+4)** | IPI Institut · IGS | 2014 – 2015 |
 | **Technicien Supérieur Systèmes & Réseaux (Bac+2)** | IPI Institut · IGS | 2006 – 2007 |
 
-### Industries & Biologie
-
-| Diplôme | Période |
-|---|---|
-| **Licence Chimie de l'eau** | 1988 – 1989 |
-| **BTS Biochimie** | 1987 -1988 |
-
 ---
 
 ## Compétences
