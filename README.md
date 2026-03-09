@@ -10,23 +10,10 @@
 
 ## Parcours — de la production industrielle à la data
 
-Mon parcours n'est pas linéaire. Il est construit par le terrain, étape par étape, depuis l'industrie jusqu'au pilotage de produits data.
+Senior Data Product Manager / BI / Data Governance avec 15+ ans d’expérience dans des environnements critiques : Coca-Cola, EDF, BNP Paribas, BPCE, GRDF, Dassault Aviation,  et Crédit Agricole.
+Safran
+Mon parcours a évolué progressivement de l’industrie vers la data, en passant par la production IT, la Business Intelligence et aujourd’hui le pilotage de produits data et de projets IA.
 
-### 🏭 Production industrielle — Coca-Cola Entreprise
-
-Première expérience dans un environnement industriel exigeant. Gestion de lignes de production cadencées, amélioration continue, sensibilisation aux démarches **6 Sigma** et aux standards qualité. C'est là que j'ai appris la rigueur, le respect des process et la valeur d'un indicateur fiable.
-
-### 🖥️ Technicien informatique
-
-Transition vers l'IT : support, administration systèmes, gestion de parcs. Première immersion dans les environnements techniques, compréhension du fonctionnement des infrastructures et des contraintes de production informatique.
-
-### 📊 Analyste de production IT [EDF, PSA, La Banque Postale (ATOS)]
-
-Montée en compétences sur la supervision, le monitoring et l'analyse des incidents en environnements critiques. MCO de plateformes, gestion des alertes, continuité de service. Des contextes réglementés — banque, énergie — où chaque interruption a un coût.
-
-### ⚙️ Ingénieur de production BI
-
-Passage au décisionnel : industrialisation de flux BI, MCO de plateformes Power BI et Analysis Services, modélisation sémantique (TMDL/DAX), structuration du reporting opérationnel et exécutif. Interface entre les équipes techniques et les métiers.
 
 ### 🎯 Chef de projet & Data Product Manager
 
